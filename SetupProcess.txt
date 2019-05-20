@@ -1,0 +1,40 @@
+Github is an amazing community for team members to  work with projects.
+It helps to maintain the code written by multiple users and efficiently keep track of modification by the members.
+
+
+Reference Link for setting up Github and Git on Windows:https://youtu.be/J_Clau1bYco
+
+
+Steps involed in the Procedure
+
+1. Downloading the Git Sofware from windows from https://git-scm.com
+
+2. Setup Process ( We will use cmd version not GUI)
+
+3. Setup Process - I : Select Bash Mode or Unix version
+
+4. Create GitHub Account - https://github.com
+
+5. Create a repository in the GitHub account (click on Read me tick box)
+
+6. Now locate to the Github folder in the laptop via bash 
+
+7.Set up Git account in Laptop with the github crendials
+
+Set Up Git:
+git config --global user.name "Your Name"
+git config --global user.email "youremail@domain.com"
+
+
+8. Try to push the repository in the laptop via bash using the following commands
+
+
+other commands
+git clone (url)
+git add (file names)
+git commit -m "(committed message)
+git push -u origin master
+
+9.
+
+git remote add origin master (url)
