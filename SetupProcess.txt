@@ -1,5 +1,5 @@
 Github is an amazing community for team members to  work with projects.
-It helps to maintain the code written by multiple users and efficiently keep track of modification by the members.
+It helps to maintain the code written by multiple users and efficiently keep track of modified code written by the members.
 
 
 Reference Link for setting up Github and Git on Windows:https://youtu.be/J_Clau1bYco
